@@ -121,7 +121,7 @@ function Dashboard() {
                     color="secondary"
                     onClick={() => setEditingFeedback(null)}
                     fullWidth
-                    style={{backgroundColor:'#0d1036', color:'white', borderColor:'white'}}
+                    style={{backgroundColor:'#0d1036', color:'white', borderColor:'white'}} 
                   >
                     Cancel
                   </Button>
